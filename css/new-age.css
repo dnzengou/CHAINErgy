@@ -395,8 +395,7 @@ section.cta {
     background-size: cover;
     -o-background-size: cover;
     background-position: center;
-    /*background-image: url('../img/bg-cta.jpg')*/
-    background-image: url('img/gif_distributed.gif'); /*http://4.bp.blogspot.com/-8hEcgWfDypU/VdnN_N3YyXI/AAAAAAAAAPY/oH4664lOQRU/s1600/8f65cf24448327e7acc564cc8f404022.gif*/
+    background-image: url('img/smart-grid.png');
     padding: 250px 0;
 }
 
